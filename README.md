@@ -1,6 +1,8 @@
 # Learning Compose - Android Basics
+fafaff
+
 Welcome to the **Learning Compose - Android Basics** self-learning course! This course is designed to help you get started with **Jetpack Compose** by building your first Android app
-Welcome to the **Learning Compose - Android Basics** self-learning course! This course is designed to help you get started with **Jetpack Compose** by building your first Android app.
+
 
 ## Course Link
 
